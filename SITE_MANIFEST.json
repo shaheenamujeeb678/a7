@@ -1,0 +1,207 @@
+{
+  "domain": "barnworkwear",
+  "niche": "Rugged Duck Canvas Barn Jackets & Heritage Workwear Outerwear",
+  "design_concept": "Editorial Monolith & Asymmetric Showcase",
+  "archetype_id": "editorial_monolith",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "barnworkwear_asset_01.jpg",
+      "size_kb": 201.18,
+      "md5": "2644baaaa9116f4fadec490794aa828f",
+      "description": "Waxed cotton heritage work jacket with brass hardware",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "barnworkwear_asset_02.jpg",
+      "size_kb": 87.01,
+      "md5": "2d0ac3878ea90bfecc3c76c80b966449",
+      "description": "Heavyweight weatherproof field endurance jacket",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "barnworkwear_asset_03.jpg",
+      "size_kb": 105.63,
+      "md5": "bfb6a6dd1be92d3ef46fef21a3050dd8",
+      "description": "Classic thornproof waxed cotton country barn coat",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "barnworkwear_asset_04.jpg",
+      "size_kb": 289.64,
+      "md5": "a93532424bf6ca8f47f9d2a95e0c5fec",
+      "description": "Heavyweight selvedge denim utility chore jacket",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "barnworkwear_asset_05.jpg",
+      "size_kb": 52.87,
+      "md5": "d9ece8e74ec50c94ec79ef7179b0f5c2",
+      "description": "Heavy virgin wool point blanket mackinaw field coat",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "barnworkwear_asset_06.jpg",
+      "size_kb": 459.33,
+      "md5": "0e789a2ee6dc91d401187138c88bfe66",
+      "description": "Handwoven Donegal tweed belt-back norfolk hunting coat",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "barnworkwear_asset_07.jpg",
+      "size_kb": 173.43,
+      "md5": "36d29883af6d91871b592128088fa7f5",
+      "description": "Triple-stitched rugged chore jacket in raw denim",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "barnworkwear_asset_08.jpg",
+      "size_kb": 189.1,
+      "md5": "c0f33204a21fc404416a7e85bc320eb2",
+      "description": "Heavy copper rivet and felled seam structural detail",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "barnworkwear_asset_09.jpg",
+      "size_kb": 104.31,
+      "md5": "6781512664f5746ebb99c5847c5af87d",
+      "description": "Vintage Nordic industrial denim work jacket",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "barnworkwear_asset_10.jpg",
+      "size_kb": 129.43,
+      "md5": "c9d774ee3b129649e623047c2c94534b",
+      "description": "Traditional horsehair canvas interlining construction",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "barnworkwear_asset_11.jpg",
+      "size_kb": 174.01,
+      "md5": "5801130b0b797b3f839e6739a8a14eb0",
+      "description": "Heavy estate tweed outerwear performing in winter conditions",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "barnworkwear_asset_12.jpg",
+      "size_kb": 121.06,
+      "md5": "46fadbc52ce2bc2e1b1df3984c633ec1",
+      "description": "Reinforced bellows pocket field jacket in natural landscape",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "barnworkwear_asset_13.jpg",
+      "size_kb": 67.75,
+      "md5": "99126d52cf039b4672dc82d63f6aaa2b",
+      "description": "Artisanal reconstructed duck canvas and denim chore jacket",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "barnworkwear_asset_14.jpg",
+      "size_kb": 110.44,
+      "md5": "4a5560007f2f13cfdf3202b6ac9e887f",
+      "description": "Weather-resistant tight-weave cotton Harrington jacket",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "barnworkwear_asset_15.jpg",
+      "size_kb": 131.74,
+      "md5": "2f1c8a526378d58bea4cf5875b53863d",
+      "description": "Full-grain roughout suede workwear bomber jacket",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "barnworkwear_asset_16.jpg",
+      "size_kb": 236.8,
+      "md5": "cdf628bc6f4e296244ee0ff29054b295",
+      "description": "Heavyweight steerhide double-rider utility coat",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "barnworkwear_asset_17.jpg",
+      "size_kb": 354.5,
+      "md5": "232d4ccabcc55af4cd28044ee2db420d",
+      "description": "Patinated vegetable-tanned horsehide barn jacket",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "barnworkwear_asset_18.jpg",
+      "size_kb": 151.43,
+      "md5": "0bd9f0fc94f6f1d735dbde9e00251a15",
+      "description": "Brass-zippered heavyweight steerhide leather overcoat",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "barnworkwear_asset_19.jpg",
+      "size_kb": 164.84,
+      "md5": "579743451376117a7c6e908589b609e1",
+      "description": "Weatherproof cotton-blend flight jacket silhouette",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "barnworkwear_asset_20.jpg",
+      "size_kb": 45.59,
+      "md5": "46ee6e94a1044a9d0cae8a9b77431c5c",
+      "description": "Heavy selvedge denim jacket with embroidered insignia",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://barnworkwear.com/sitemap.xml",
+    "robots": "https://barnworkwear.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
